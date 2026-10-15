@@ -12,7 +12,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=+Google+Sans+Code&pause=9999999&color=6278D2&background=FF000000&center=true&vCenter=true&width=435&lines=Hi+there!)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=+Google+Sans+Code&pause=9999999&color=6278D2&background=FF000000&center=true&vCenter=true&width=435&lines=I'am+Mike%2C+a+nerd+and+petrolhead+%E2%9A%99)](https://git.io/typing-svg)
+
+    💼 CyberSec Engineer 
+    📖 Master's student MLSecOps
+    🎮 Music • Cars • CTF
+    💻 Use Git for track notes and projects
+
+
+<!--### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <!--
 <a href="https://vk.com/your_profile">
   <img align="left" alt="VKontakte" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
